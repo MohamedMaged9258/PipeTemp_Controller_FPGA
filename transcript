@@ -1,0 +1,60 @@
+# Load canceled
+# Compile of mipssingle.sv was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.top
+# Loading work.mips
+# Loading work.controller
+# Loading work.maindec
+# Loading work.aludec
+# Loading work.datapath
+# Loading work.flopr
+# Loading work.adder
+# Loading work.sl2
+# Loading work.mux2
+# Loading work.regfile
+# Loading work.signext
+# Loading work.alu
+# Loading work.imem
+# Loading work.dmem
+add wave -position insertpoint sim:/testbench/*
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "memfile.dat" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)    : D:/Codes/VeriLog/mipssingle.sv(80)
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut/imem
+# 		    time 	dataadr		writedata
+#                   22	         x	         x
+restart
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.top
+# Loading work.mips
+# Loading work.controller
+# Loading work.maindec
+# Loading work.aludec
+# Loading work.datapath
+# Loading work.flopr
+# Loading work.adder
+# Loading work.sl2
+# Loading work.mux2
+# Loading work.regfile
+# Loading work.signext
+# Loading work.alu
+# Loading work.imem
+# Loading work.dmem
+run
+# ** Warning: (vsim-7) Failed to open readmem file "memfile.dat" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)    : D:/Codes/VeriLog/mipssingle.sv(80)
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut/imem
+# 		    time 	dataadr		writedata
+#                   22	         x	         x
+run
+run
+run
+run
+run
+quit -sim

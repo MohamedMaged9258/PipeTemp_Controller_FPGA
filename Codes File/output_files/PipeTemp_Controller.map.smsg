@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at PipeTemp_Controller.v(105): always construct contains both blocking and non-blocking assignments File: D:/Codes/VeriLog/Codes File/PipeTemp_Controller.v Line: 105
+Warning (10268): Verilog HDL information at PipeTemp_Controller.v(289): always construct contains both blocking and non-blocking assignments File: D:/Codes/VeriLog/Codes File/PipeTemp_Controller.v Line: 289

@@ -1,0 +1,13 @@
+
+State Machine - |PipeTemp_Controller|Current_State
+Name Current_State.SHUTDOWN Current_State.ALARM Current_State.NORMAL Current_State.IState 
+Current_State.IState 0 0 0 0 
+Current_State.NORMAL 0 0 1 1 
+Current_State.ALARM 0 1 0 1 
+Current_State.SHUTDOWN 1 0 0 1 
+
+State Machine - |PipeTemp_Controller|Next_State
+Name Next_State.SHUTDOWN Next_State.NORMAL Next_State.ALARM 
+Next_State.NORMAL 0 0 0 
+Next_State.ALARM 0 1 1 
+Next_State.SHUTDOWN 1 1 0 

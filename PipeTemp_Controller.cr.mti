@@ -1,0 +1,20 @@
+{D:/Codes/VeriLog/Codes File/PipeTemp_Controller.v} {1 {vlog -work work {D:\Codes\VeriLog\Codes File\PipeTemp_Controller.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module PipeTemp_Controller
+-- Compiling module PipeTemp_Controller_tb
+-- Compiling module RisingEdgeDetector
+-- Compiling module decoder_7seg_anode
+-- Compiling module clock_divider
+
+Top level modules:
+	PipeTemp_Controller_tb
+	RisingEdgeDetector
+
+} {} {}} D:/Codes/VeriLog/decoder_7seg_anode.v {1 {vlog -work work D:/Codes/VeriLog/decoder_7seg_anode.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module decoder_7seg_anode
+
+Top level modules:
+	decoder_7seg_anode
+
+} {} {}}

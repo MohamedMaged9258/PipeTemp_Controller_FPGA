@@ -1,0 +1,491 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\12.1sp1\modelsim_ase
+vadder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 5l:>>JRj4jQF<0[ONL^4z0
+Z3 IKU;[cD4335RZgjoaG]WiI1
+Z4 VR4:XbIkd<X908neF9?e9K1
+Z5 !s105 mipssingle_sv_unit
+S1
+Z6 dD:\Codes\VeriLog
+Z7 w1715975453
+Z8 8D:/Codes/VeriLog/mipssingle.sv
+Z9 FD:/Codes/VeriLog/mipssingle.sv
+Z10 L0 243
+Z11 OV;L;10.1b;51
+r1
+31
+Z12 !s108 1716303008.629000
+Z13 !s107 D:/Codes/VeriLog/mipssingle.sv|
+Z14 !s90 -reportprogress|300|-work|work|D:/Codes/VeriLog/mipssingle.sv|
+Z15 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+R1
+Z16 !s100 inA:dGA^GWE0GgS;US`PD3
+Z17 I5?ezL5HB_mkd@LHcm<D^G2
+Z18 V91KC`lXUR5i=e4AKCZ:Y40
+R5
+S1
+R6
+R7
+R8
+R9
+Z19 L0 292
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+valudec
+R1
+Z20 !s100 Kh;_H7<n=EHk42z9z=cR]0
+Z21 I5`Zgb<4]Rg[>8R__K0Ugg1
+Z22 VV@U_8;`LNAe8eO3WRWMD]1
+R5
+S1
+R6
+R7
+R8
+R9
+Z23 L0 157
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vclock_divider
+Z24 IFmEL32^2?VehGbJ?oIMca1
+Z25 V1>U2oFeWIfAZU>9bQcOAf2
+R6
+Z26 w1715705649
+Z27 8D:\Codes\VeriLog\Codes File\PipeTemp_Controller.v
+Z28 FD:\Codes\VeriLog\Codes File\PipeTemp_Controller.v
+Z29 L0 278
+R11
+r1
+31
+Z30 !s108 1718812953.222000
+Z31 !s107 D:\Codes\VeriLog\Codes File\PipeTemp_Controller.v|
+Z32 !s90 -reportprogress|300|-work|work|D:\Codes\VeriLog\Codes File\PipeTemp_Controller.v|
+R15
+!i10b 1
+Z33 !s100 ^24XeGBEY7HSj>I6G8`B03
+!s85 0
+!s101 -O0
+vcontroller
+R1
+Z34 !s100 a=]SgKlV4?5D]lHN0Zie11
+Z35 I1J3NOL?L>WnJTkUBo[lj`0
+Z36 VnJHXRiBo<KmoA:XzObWDE0
+R5
+S1
+R6
+R7
+R8
+R9
+Z37 L0 111
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+R1
+Z38 !s100 Oh40bHUjAPeK;i@:V48_>0
+Z39 I1o<0e9<[@1h3lJN0Y^U4X0
+Z40 V[:^j8oBN[C9WO42jPdSCW1
+R5
+S1
+R6
+R7
+R8
+R9
+Z41 L0 178
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_7seg
+Z42 IJJF`]>SjEU1[:EU>;SO=W0
+Z43 V3z6[n`J6kIfXnXYComD=X3
+R6
+Z44 w1715454820
+R27
+R28
+Z45 L0 242
+R11
+r1
+31
+Z46 !s108 1715454845.833000
+R31
+R32
+R15
+Z47 !s100 A:DZa=BK>GnNHzmXI_JQ91
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_7seg_anode
+!i10b 1
+!s100 kX0knWzN6X6;Qn_lT?H0D3
+IQ7oPU189QSHHi6A@ahJ0D0
+Z48 Vj<=@[AXZLC5c=3if:^V6Z2
+R6
+w1715531589
+8D:/Codes/VeriLog/decoder_7seg_anode.v
+FD:/Codes/VeriLog/decoder_7seg_anode.v
+L0 1
+R11
+r1
+!s85 0
+31
+!s108 1718812953.361000
+!s107 D:/Codes/VeriLog/decoder_7seg_anode.v|
+!s90 -reportprogress|300|-work|work|D:/Codes/VeriLog/decoder_7seg_anode.v|
+!s101 -O0
+R15
+vdmem
+R1
+Z49 !s100 K5OQikOUi2dQngeCcmcD81
+Z50 ISd@G[9ABC0e9ZZbfF><X10
+Z51 V09OGzlPeaYS`EJSH7=l6?2
+R5
+S1
+R6
+R7
+R8
+R9
+L0 60
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vflopr
+R1
+Z52 !s100 ]DzCH7U=JUeKdalOU9[T90
+Z53 IPge5b:ATIHGbJIO^2?f3O3
+Z54 VKfe>keNPnLBlHh<KCg1o52
+R5
+S1
+R6
+R7
+R8
+R9
+Z55 L0 268
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vimem
+R1
+Z56 !s100 Zjga<bATZG]dj0;ileGU@3
+Z57 IzB8l^]aP8P@8>T^LXGX^]3
+Z58 V_eezcn[fFK3m2C;IUCfT<1
+R5
+S1
+R6
+R7
+R8
+R9
+L0 74
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vmaindec
+R1
+Z59 !s100 fO<3Zd7USLmz_E^FklBfm1
+Z60 I:gCoN`n49^Dn3Y:cJlCFC3
+Z61 VblMkDZdF]UTJf]k4DjYBB2
+R5
+S1
+R6
+R7
+R8
+R9
+Z62 L0 131
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vmips
+R1
+Z63 !s100 6bcAV1RQiAgbg9d1b84M13
+Z64 I@RdOCLKPO`mDM6C=41B[D3
+Z65 Va2;eVEc7`hU<K]<IICd^52
+R5
+S1
+R6
+R7
+R8
+R9
+L0 87
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+R1
+Z66 !s100 _<@bFl57]C5^_f^hQ<neb2
+Z67 IFYc>iCS1@[UPbVnLoYNgS3
+Z68 VT8RWJBjAIeM]>7U=5kBkT1
+R5
+S1
+R6
+R7
+R8
+R9
+Z69 L0 282
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeTemp_Controller
+Z70 IDojnffKkHc^E590MMNdzW2
+Z71 VTD5^X`;EWz=1c;[b]L[JT2
+R6
+R26
+R27
+R28
+L0 1
+R11
+r1
+31
+R30
+R31
+R32
+R15
+Z72 n@pipe@temp_@controller
+!i10b 1
+Z73 !s100 X[R]BjKhYg^=G=C72i@7a0
+!s85 0
+!s101 -O0
+vPipeTemp_Controller_tb
+Z74 I_d_M589dJ_zWe3bATONS73
+Z75 V]YO4SnT^CbcOCflGh0Ifd3
+R6
+R26
+R27
+R28
+Z76 L0 163
+R11
+r1
+31
+R30
+R31
+R32
+R15
+Z77 n@pipe@temp_@controller_tb
+!i10b 1
+Z78 !s100 K<Efn4nL@kXl?F:04]60]0
+!s85 0
+!s101 -O0
+vregfile
+R1
+Z79 !s100 XKHUzF4Rl=i[zTOSX8H[h3
+Z80 IQV:bU_@DCfJP_Ah7o4H983
+Z81 Vl>JD@?ekG29h[?;gM3Z2H1
+R5
+S1
+R6
+R7
+R8
+R9
+Z82 L0 219
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vRisingEdgeDetector
+Z83 IMP?0M:dQ8c05^JN?_jZNF0
+Z84 VZbj=]<J;JenmFX0AoDVD@3
+R6
+R26
+R27
+R28
+Z85 L0 239
+R11
+r1
+31
+R30
+R31
+R32
+R15
+Z86 n@rising@edge@detector
+!i10b 1
+Z87 !s100 <UBQB;8z;=``Vi^=l:F`^1
+!s85 0
+!s101 -O0
+vsevenSegments
+Z88 !s100 E7bK8YT6ZaaPU]Y>]VLbe0
+Z89 IZ;1>CI^Ff?`Y8^Q6jnm_52
+Z90 VjgfCXaCnBoIoah5KJ<WDa1
+R6
+R44
+R27
+R28
+Z91 L0 213
+R11
+r1
+31
+R46
+R31
+R32
+R15
+Z92 nseven@segments
+!i10b 1
+!s85 0
+!s101 -O0
+vsignext
+R1
+Z93 !s100 HazeFXl:gXCDhCVIf>9BN0
+Z94 I`RRmz=e;>hfaQk4D=6nX_2
+Z95 VzXjEl4X;;[WhS@=1HjFT41
+R5
+S1
+R6
+R7
+R8
+R9
+Z96 L0 260
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vsl2
+R1
+Z97 !s100 C7Sih:5?9h=1m`JPHm2?i0
+Z98 IlJo9H86n>cWhVZdlU6E_51
+Z99 VMHGRbO<8oJM:TjGW_j2PX2
+R5
+S1
+R6
+R7
+R8
+R9
+Z100 L0 251
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+Z101 I^K6fZZj9ZiG>_kDT^K5kh0
+Z102 VhGfW:390DM[oDMzegDH9`2
+R6
+Z103 w1716306188
+Z104 8D:/Codes/VeriLog/testbench.v
+Z105 FD:/Codes/VeriLog/testbench.v
+L0 3
+R11
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|D:/Codes/VeriLog/testbench.v|
+R15
+Z107 !s100 U2=>HjOo>@OaWS0N;OO=>1
+Z108 !s108 1716306192.508000
+Z109 !s107 D:/Codes/VeriLog/testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+R1
+Z110 !s100 GcJX;F?fl0Y?JMGPX9bSh1
+Z111 IU0<C[LMZ_f7:79FaEekR]0
+Z112 V=TIn67B?1ag:LQ8NchNYN0
+R5
+S1
+R6
+R7
+R8
+R9
+L0 45
+R11
+r1
+31
+R12
+R13
+R14
+R15
+!i10b 1
+!s85 0
+!s101 -O0

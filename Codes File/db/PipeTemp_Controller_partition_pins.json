@@ -1,0 +1,201 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Alarm",
+					"strict" : false
+				},
+				{
+					"name" : "Done",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[0]",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[2]",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[3]",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[4]",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[5]",
+					"strict" : false
+				},
+				{
+					"name" : "units_seconds_segment_leds[6]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[0]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[3]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[4]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[5]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_seconds_segment_leds[6]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[0]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[2]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[3]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[4]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[5]",
+					"strict" : false
+				},
+				{
+					"name" : "units_minutes_segment_leds[6]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_minutes_segment_leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_minutes_segment_leds[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_minutes_segment_leds[3]",
+					"strict" : false
+				},
+				{
+					"name" : "tens_minutes_segment_leds[6]",
+					"strict" : false
+				},
+				{
+					"name" : "minutes_tens[0]",
+					"strict" : false
+				},
+				{
+					"name" : "minutes_units[0]",
+					"strict" : false
+				},
+				{
+					"name" : "minutes_units[1]",
+					"strict" : false
+				},
+				{
+					"name" : "minutes_units[2]",
+					"strict" : false
+				},
+				{
+					"name" : "minutes_units[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_tens[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_tens[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_tens[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_units[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_units[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_units[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_units[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp_Data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
